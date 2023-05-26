@@ -1,0 +1,16 @@
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\bin\Debug\RAMUSAGE2.exe.config
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\bin\Debug\RAMUSAGE2.exe
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\bin\Debug\RAMUSAGE2.pdb
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\bin\Debug\MetroFramework.Design.dll
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\bin\Debug\MetroFramework.dll
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.csproj.AssemblyReference.cache
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.csproj.SuggestedBindingRedirects.cache
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.Form1.resources
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.Properties.Resources.resources
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.csproj.GenerateResource.cache
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.csproj.CoreCompileInputs.cache
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.csproj.CopyComplete
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.exe
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.pdb
+C:\Users\srkz\Downloads\C#\RAMUSAGE2\obj\Debug\RAMUSAGE2.Resources.resources
